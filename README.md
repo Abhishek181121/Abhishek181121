@@ -1,11 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://abhishek181121.io)
+[![Hii Everyone](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://abhishek181121.io)
 
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjjp63r7oH_AhU6j9gFHdxWDBAQMygMegUIARC0Ag..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwjjp63r7oH_AhU6j9gFHdxWDBAQMygMegUIARC0A">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek181121&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek181121" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjjp63r7oH_AhU6j9gFHdxWDBAQMygMegUIARC0Ag..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwjjp63r7oH_AhU6j9gFHdxWDBAQMygMegUIARC0A")
 
 
 - 🌱 I’m currently learning **react native**
