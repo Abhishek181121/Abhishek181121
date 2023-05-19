@@ -1,8 +1,9 @@
+<h1 align="center">Hi 👋, I'm abhishek kumar</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjjp63r7oH_AhU6j9gFHdxWDBAQMygMegUIARC0Ag..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwjjp63r7oH_AhU6j9gFHdxWDBAQMygMegUIARC0A">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek181121&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek181121" /> </p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek181121" alt="Abhishek181121" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek181121&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek181121" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
